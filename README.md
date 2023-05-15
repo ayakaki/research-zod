@@ -1,1 +1,1 @@
-# research-zod
+# study-zod
